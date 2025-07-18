@@ -1,6 +1,5 @@
 package ads.pacote.abb;
 
-// ArvoreBinariaBusca.java
 import java.util.*;
 
 public class ArvoreBinariaBusca {
@@ -101,3 +100,4 @@ public class ArvoreBinariaBusca {
         dfs(no.direita);
     }
 }
+
